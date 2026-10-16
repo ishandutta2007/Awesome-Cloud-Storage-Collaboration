@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Storage-Collaboration?style=flat-square&color=gold" alt="GitHub Stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Collaboration/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Cloud-Storage-Collaboration?style=flat-square&color=gold" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Collaboration/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Cloud-Storage-Collaboration?style=flat-square&color=blue" alt="GitHub Forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Collaboration/issues"><img src="https://img.shields.io/github/issues/ishandutta2007/Awesome-Cloud-Storage-Collaboration?style=flat-square&color=green" alt="Issues" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Cloud-Storage-Collaboration/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-yellow.svg?style=flat-square" alt="License" /></a>
@@ -70,77 +70,77 @@ A comprehensive analysis of market-leading managed SaaS and Enterprise File Sync
 
 ## 💻 Open-Source GitHub Projects
 
-Curated open-source projects for self-hosted cloud storage, peer-to-peer file sync, object storage, and encrypted backup. Ranked descending by GitHub community star count.
+Curated open-source projects for self-hosted cloud storage, peer-to-peer file sync, object storage, and encrypted backup. Ranked descending by GitHub community Stars_Count.
 
-1. **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
+1. **[Syncthing](https://github.com/syncthing/syncthing)** [![GitHub_Stars](https://img.shields.io/github/stars/syncthing/syncthing?style=social&color=white)](https://github.com/syncthing/syncthing/stargazers)  
    **Open Source Continuous File Synchronization** (MPL-2.0) 🔄  
    *Decentralized peer-to-peer sync between trusted devices without central servers or third-party cloud storage.* Features block-level delta transfers, TLS mutual authentication, cryptographic device IDs, configurable file versioning, NAT traversal relays, and cross-platform clients (Linux, macOS, Windows, Android).
 
-2. **[MinIO](https://github.com/minio/minio)** [![GitHub stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
+2. **[MinIO](https://github.com/minio/minio)** [![GitHub_Stars](https://img.shields.io/github/stars/minio/minio?style=social&color=white)](https://github.com/minio/minio/stargazers)  
    **High-Performance S3 Compatible Object Storage** (AGPL-3.0) 🪣  
    *The de-facto standard for self-hosted, distributed S3-compatible cloud storage.* Built for Kubernetes-native infrastructure, machine learning pipelines, and cloud-native file storage with enterprise-grade bit-rot protection, server-side encryption (KMS), and multi-tenant object locking.
 
-3. **[Rclone](https://github.com/rclone/rclone)** [![GitHub stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
+3. **[Rclone](https://github.com/rclone/rclone)** [![GitHub_Stars](https://img.shields.io/github/stars/rclone/rclone?style=social&color=white)](https://github.com/rclone/rclone/stargazers)  
    **"rsync for cloud storage"** (MIT) 🗃️  
    *The ultimate command-line program and sync engine for managing data across 70+ cloud storage backends.* Supports bi-directional sync, encrypted remotes (`rclone crypt`), virtual filesystem mounting (`rclone mount`), chunking, bandwidth throttling, and unified transfers across S3, Google Drive, OneDrive, Nextcloud, and SFTP.
 
-4. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
+4. **[Nextcloud Server](https://github.com/nextcloud/server)** [![GitHub_Stars](https://img.shields.io/github/stars/nextcloud/server?style=social&color=white)](https://github.com/nextcloud/server/stargazers)  
    **Comprehensive Self-Hosted Productivity & Collaboration Suite** (AGPL-3.0) ☁️  
    *The premier open-source on-premises alternative to Microsoft 365 and Google Workspace.* Features real-time multi-user document editing (Nextcloud Office/Collabora), video conferencing & chat (Nextcloud Talk), groupware (Mail, Calendar, Contacts), task tracking (Deck), end-to-end encryption, and 300+ ecosystem integrations.
 
-5. **[Restic](https://github.com/restic/restic)** [![GitHub stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
+5. **[Restic](https://github.com/restic/restic)** [![GitHub_Stars](https://img.shields.io/github/stars/restic/restic?style=social&color=white)](https://github.com/restic/restic/stargazers)  
    **Fast, Secure, Efficient Backup Program** (BSD-2-Clause) 🛡️  
    *Secure client-side encrypted backup program for cloud and self-hosted storage targets.* Uses cryptographic deduplication, authenticated symmetric encryption (AES-256), and supports local disks, SFTP, REST servers, AWS S3, MinIO, Wasabi, Backblaze B2, and Azure Blob storage.
 
-6. **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)  
+6. **[File Browser](https://github.com/filebrowser/filebrowser)** [![GitHub_Stars](https://img.shields.io/github/stars/filebrowser/filebrowser?style=social&color=white)](https://github.com/filebrowser/filebrowser/stargazers)  
    **Lightweight Web File Manager & Personal Cloud Portal** (Apache-2.0) 📂  
    *Extremely fast, standalone web-based file management interface for home labs and dedicated servers.* Single Go binary providing an elegant browser UI with drag-and-drop file uploading, directory sharing links, video playback, user permission control, and integrated terminal command execution.
 
-7. **[IPFS Kubo](https://github.com/ipfs/kubo)** [![GitHub stars](https://img.shields.io/github/stars/ipfs/kubo?style=social&color=white)](https://github.com/ipfs/kubo/stargazers)  
+7. **[IPFS Kubo](https://github.com/ipfs/kubo)** [![GitHub_Stars](https://img.shields.io/github/stars/ipfs/kubo?style=social&color=white)](https://github.com/ipfs/kubo/stargazers)  
    **InterPlanetary File System Reference Implementation** (Apache-2.0 / MIT) 🌐  
    *Peer-to-peer hypermedia protocol designed to preserve and grow humanity's knowledge by making the web upgradeable, resilient, and more open.* Provides content-addressed storage, deduplication, tamper-proof decentralized distribution, and distributed pin-syncing networks.
 
-8. **[Seafile](https://github.com/haiwen/seafile)** [![GitHub stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
+8. **[Seafile](https://github.com/haiwen/seafile)** [![GitHub_Stars](https://img.shields.io/github/stars/haiwen/seafile?style=social&color=white)](https://github.com/haiwen/seafile/stargazers)  
    **High-Performance File Syncing & Team Collaboration Platform** (AGPL-3.0) 🚀  
    *Engineered for extreme performance and large file syncing via block-level deduplication.* Offers virtual drive client mounting on Windows, macOS, and Linux without exhausting local disk space, document locking for collaborative Office editing, internal wiki management, and SeaTable spreadsheet database integration.
 
-9. **[Duplicati](https://github.com/duplicati/duplicati)** [![GitHub stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
+9. **[Duplicati](https://github.com/duplicati/duplicati)** [![GitHub_Stars](https://img.shields.io/github/stars/duplicati/duplicati?style=social&color=white)](https://github.com/duplicati/duplicati/stargazers)  
    **Open-Source Encrypted Backup Client** (LGPL-2.1) 💾  
    *Client-side encrypted cloud backup with intuitive web UI and automated scheduling.* Employs AES-256 encryption, incremental block-level deduplication, compression, and seamless connectivity to WebDAV, Nextcloud, S3, Google Drive, OneDrive, and SFTP.
 
-10. **[Kopia](https://github.com/kopia/kopia)** [![GitHub stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
+10. **[Kopia](https://github.com/kopia/kopia)** [![GitHub_Stars](https://img.shields.io/github/stars/kopia/kopia?style=social&color=white)](https://github.com/kopia/kopia/stargazers)  
     **Fast and Secure Open-Source Backup Tool** (Apache-2.0) 🔒  
     *Next-generation encrypted backup engine with content-addressable storage deduplication.* Supports snapshotting, directory mounting as local drives, error-correction coding, graphical desktop UI, and direct connectivity to cloud object storage.
 
-11. **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
+11. **[BorgBackup](https://github.com/borgbackup/borg)** [![GitHub_Stars](https://img.shields.io/github/stars/borgbackup/borg?style=social&color=white)](https://github.com/borgbackup/borg/stargazers)  
     **Deduplicating Archiver with Compression and Encryption** (BSD-3-Clause) 📦  
     *The gold standard in Unix backup and deduplication for system administrators.* Features authenticated client-side encryption (AES-256-OCB), chunk-based deduplication across all snapshots, fast compression (zstd, lz4), and SSH remote execution.
 
-12. **[SFTPGo](https://github.com/drakkan/sftpgo)** [![GitHub stars](https://img.shields.io/github/stars/drakkan/sftpgo?style=social&color=white)](https://github.com/drakkan/sftpgo/stargazers)  
+12. **[SFTPGo](https://github.com/drakkan/sftpgo)** [![GitHub_Stars](https://img.shields.io/github/stars/drakkan/sftpgo?style=social&color=white)](https://github.com/drakkan/sftpgo/stargazers)  
     **Fully Featured SFTP, HTTP/S, FTP/S & WebDAV Storage Server** (AGPL-3.0) 🚪  
     *High-performance multi-protocol storage gateway for local storage, S3, Azure Blob, and Google Cloud Storage.* Provides web administrative dashboard, end-user web client, virtual folders, quota enforcement, TOTP 2FA, data-at-rest encryption, and automated event actions.
 
-13. **[ownCloud Core](https://github.com/owncloud/core)** [![GitHub stars](https://img.shields.io/github/stars/owncloud/core?style=social&color=white)](https://github.com/owncloud/core/stargazers)  
+13. **[ownCloud Core](https://github.com/owncloud/core)** [![GitHub_Stars](https://img.shields.io/github/stars/owncloud/core?style=social&color=white)](https://github.com/owncloud/core/stargazers)  
     **Self-Hosted File Sync and Share Platform** (AGPL-3.0) 🏛️  
     *The pioneering project that defined self-hosted enterprise file sync and sharing (EFSS).* Features federated cloud sharing, LDAP/Active Directory integration, selective sync desktop clients, file version retention, and on-premises compliance governance.
 
-14. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
+14. **[CryptPad](https://github.com/cryptpad/cryptpad)** [![GitHub_Stars](https://img.shields.io/github/stars/cryptpad/cryptpad?style=social&color=white)](https://github.com/cryptpad/cryptpad/stargazers)  
     **End-to-End Encrypted Real-Time Collaborative Suite** (AGPL-3.0) 🛡️  
     *Zero-knowledge collaborative workspace designed specifically for total privacy.* Includes real-time rich text documents, spreadsheets, slides, kanban task boards, whiteboards, code editors, and forms where all client content is client-side encrypted before transmitting to the server.
 
-15. **[Garage](https://github.com/deuxfleurs-org/garage)** [![GitHub stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=social&color=white)](https://github.com/deuxfleurs-org/garage/stargazers)  
+15. **[Garage](https://github.com/deuxfleurs-org/garage)** [![GitHub_Stars](https://img.shields.io/github/stars/deuxfleurs-org/garage?style=social&color=white)](https://github.com/deuxfleurs-org/garage/stargazers)  
     **Lightweight S3-Compatible Distributed Object Storage** (AGPL-3.0) 🦀  
     *Engineered for self-hosting on heterogeneous, geo-distributed clusters with low hardware footprints.* Written in Rust, it excels at providing resilient S3 storage across multi-datacenter community networks without complex cluster setups.
 
-16. **[Storj (Tardigrade)](https://github.com/storj/storj)** [![GitHub stars](https://img.shields.io/github/stars/storj/storj?style=social&color=white)](https://github.com/storj/storj/stargazers)  
+16. **[Storj (Tardigrade)](https://github.com/storj/storj)** [![GitHub_Stars](https://img.shields.io/github/stars/storj/storj?style=social&color=white)](https://github.com/storj/storj/stargazers)  
     **Decentralized, Encrypted S3-Compatible Cloud Storage Network** (AGPL-3.0) 🛰️  
     *Zero-trust decentralized object storage protocol.* Files are client-side encrypted, split into erasure-coded shards, and distributed across a global network of independent storage nodes for superior durability and censorship resistance.
 
-17. **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)  
+17. **[Pydio Cells](https://github.com/pydio/cells)** [![GitHub_Stars](https://img.shields.io/github/stars/pydio/cells?style=social&color=white)](https://github.com/pydio/cells/stargazers)  
     **Enterprise Document Management & Advanced File Sharing** (AGPL-3.0) 📑  
     *Microservices-based enterprise file sharing platform written in Go.* Designed for complex compliance, granular RBAC access controls, multi-tenancy, workflow automation rules, and secure content perimeter policies for large enterprises.
 
-18. **[Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs)** [![GitHub stars](https://img.shields.io/github/stars/tahoe-lafs/tahoe-lafs?style=social&color=white)](https://github.com/tahoe-lafs/tahoe-lafs/stargazers)  
+18. **[Tahoe-LAFS](https://github.com/tahoe-lafs/tahoe-lafs)** [![GitHub_Stars](https://img.shields.io/github/stars/tahoe-lafs/tahoe-lafs?style=social&color=white)](https://github.com/tahoe-lafs/tahoe-lafs/stargazers)  
     **Least-Authority File Store** (GPL-2.0+) 🔐  
     *Fault-tolerant, decentralized, privacy-respecting distributed storage system.* Distributes encrypted erasure-coded shares across independent servers, guaranteeing confidentiality and integrity even when storage nodes fail or are compromised.
 
@@ -162,7 +162,7 @@ Contributions, project suggestions, and documentation fixes are warmly welcomed!
 
 1. 🍴 **Fork the repository** on GitHub.
 2. 🌿 **Create a new branch**: `git checkout -b feature/add-new-storage-tool`.
-3. 📝 **Add or edit entries** in `README.md` following the established formatting, emoji guidelines, and pricing/star badge rules.
+3. 📝 **Add or edit entries** in `README.md` following the established formatting, emoji guidelines, and pricing/Stars_Badge rules.
 4. 🔎 Ensure URLs are active, accurate, and relevant to cloud storage/collaboration.
 5. 🚀 **Commit your changes**: `git commit -m "Add ToolName to open-source storage list"`.
 6. 📬 **Open a Pull Request** with a concise summary of the addition.
